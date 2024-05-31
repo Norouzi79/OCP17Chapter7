@@ -6,4 +6,4 @@ package ir.dotin.ocp17chapter7.sessionOne.interfaces.slide20;
  * our code won't compile!
  */
 
-//public class CommonSeal extends HarborSeal {}
+//public class CommonSeal extends HarborSeal {} //DOES NOT COMPILE
