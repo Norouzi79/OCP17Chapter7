@@ -46,4 +46,9 @@ public class PostComment {
         this.review = review;
         return this;
     }
+
+    public PostComment(Post post, String review) {
+        this.post = post;
+        this.review = review;
+    }
 }
